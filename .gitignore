@@ -1,3 +1,12 @@
+# misc
+pyuac.stderr.tmp.txt
+pyuac.stdout.tmp.txt
+# icons/
+#
+*.jpg
+*.png
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
